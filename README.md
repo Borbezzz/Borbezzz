@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=hello+:)&font=Fira+Code&center=true&width=380&height=50&color=ffffff" />
+</p>
 
-<!--
-**Borbezzz/Borbezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=borbez2&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/borbez2?style=flat" />
+  <img src="https://img.shields.io/github/stars/borbez2?style=flat" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats-theta-dusky-83.vercel.app/api/top-langs/?username=Borbez2&layout=compact&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Borbez2&theme=dark" />
+</p>
